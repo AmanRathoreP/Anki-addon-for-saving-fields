@@ -1,5 +1,8 @@
-"""Init file for addon
-This is the file for which anki look for"""
+"""
+@author Aman Rathore
+Init file for addon
+This is the file for which anki look for
+"""
 
 from ._version import __version__
 

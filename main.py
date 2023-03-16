@@ -1,3 +1,6 @@
+"""
+@author Aman Rathore
+"""
 from aqt.editor import Editor
 from .src import my_logger, my_constants
 from aqt import gui_hooks
